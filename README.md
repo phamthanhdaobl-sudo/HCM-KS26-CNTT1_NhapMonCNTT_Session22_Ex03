@@ -186,29 +186,3 @@ Bên cạnh đó, hiện tượng AI Hallucination cho thấy không phải mọ
 Em nhận thấy AI là công cụ hỗ trợ rất hữu ích trong học tập và lập trình, nhưng người sử dụng vẫn phải chịu trách nhiệm kiểm tra và quyết định trước khi thực hiện các thao tác có thể ảnh hưởng đến máy tính.
 
 ---
-
-## 7. Cấu trúc repository GitHub
-
-**Tên repository đề xuất:**
-
-```text
-HCM-KS26-CNTT1_IT-101_Session-20_Bai-3
-```
-
-**Cấu trúc thư mục:**
-
-```text
-HCM-KS26-CNTT1_IT-101_Session-20_Bai-3/
-│
-├── README.md
-│
-└── images/
-    ├── ai-terminal-command.png
-    └── verification-results.png
-```
-
-**Ảnh minh chứng đề xuất:**
-
-- `ai-terminal-command.png`: Ảnh câu lệnh AI đề xuất.
-- `verification-results.png`: Ảnh kết quả kiểm chứng trên Stack Overflow hoặc tài liệu chính thức.
-
